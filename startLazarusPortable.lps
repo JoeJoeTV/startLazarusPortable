@@ -9,8 +9,8 @@
         <Filename Value="startLazarusPortable.lpr"/>
         <IsPartOfProject Value="True"/>
         <IsVisibleTab Value="True"/>
-        <TopLine Value="203"/>
-        <CursorPos X="173" Y="246"/>
+        <TopLine Value="29"/>
+        <CursorPos X="37" Y="62"/>
         <UsageCount Value="72"/>
         <Loaded Value="True"/>
       </Unit0>
@@ -78,7 +78,7 @@
         <UsageCount Value="6"/>
       </Unit9>
       <Unit10>
-        <Filename Value="C:\Users\Johannes\Desktop\LazarusPortable\examples\xmlstreaming\mainunit.pas"/>
+        <Filename Value="..\..\..\Desktop\LazarusPortable\examples\xmlstreaming\mainunit.pas"/>
         <ComponentName Value="StreamAsXMLForm"/>
         <HasResources Value="True"/>
         <ResourceBaseClass Value="Form"/>

@@ -55,9 +55,11 @@ begin
     Result := False;
 end;
 
+{$R *.res}
+
 begin
   outStr := '';
-  WriteLn('startLazarusPortable v1.3');
+  WriteLn('startLazarusPortable v1.0');
   lazarusDir := IncludeTrailingPathDelimiter(ExtractFileDir(ParamStr(0)));
   WriteLn('LazarusDir: '+lazarusDir);
 
