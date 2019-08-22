@@ -1,0 +1,326 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="11"/>
+    <BuildModes Active="Default"/>
+    <Units Count="27">
+      <Unit0>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="203"/>
+        <CursorPos X="173" Y="246"/>
+        <UsageCount Value="72"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\packages\regexpr\src\regex.pp"/>
+        <UnitName Value="Regex"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="118"/>
+        <UsageCount Value="6"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\packages\regexpr\src\regexpr.pas"/>
+        <UnitName Value="RegExpr"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="295"/>
+        <UsageCount Value="6"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\packages\fcl-xml\src\xmlread.pp"/>
+        <UnitName Value="XMLRead"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="23"/>
+        <CursorPos X="11" Y="41"/>
+        <UsageCount Value="6"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\packages\fcl-xml\src\dom.pp"/>
+        <UnitName Value="DOM"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="511"/>
+        <CursorPos X="11" Y="529"/>
+        <UsageCount Value="10"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\packages\fcl-xml\src\xmlconf.pp"/>
+        <UnitName Value="XMLConf"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="15" Y="12"/>
+        <UsageCount Value="6"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\rtl\objpas\classes\classesh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="627"/>
+        <CursorPos X="15" Y="645"/>
+        <UsageCount Value="10"/>
+      </Unit6>
+      <Unit7>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\components\lazutils\laz2_xmlcfg.pas"/>
+        <UnitName Value="Laz2_XMLCfg"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="15" Y="69"/>
+        <UsageCount Value="10"/>
+      </Unit7>
+      <Unit8>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\components\lazutils\lazutilities.pas"/>
+        <UnitName Value="LazUtilities"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit8>
+      <Unit9>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\packages\fcl-xml\src\xmlutils.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="4"/>
+        <UsageCount Value="6"/>
+      </Unit9>
+      <Unit10>
+        <Filename Value="C:\Users\Johannes\Desktop\LazarusPortable\examples\xmlstreaming\mainunit.pas"/>
+        <ComponentName Value="StreamAsXMLForm"/>
+        <HasResources Value="True"/>
+        <ResourceBaseClass Value="Form"/>
+        <UnitName Value="MainUnit"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="6"/>
+      </Unit10>
+      <Unit11>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\packages\libxml\src\xml2.pas"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="6"/>
+      </Unit11>
+      <Unit12>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\packages\fcl-xml\src\xmlreader.pp"/>
+        <UnitName Value="XmlReader"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit12>
+      <Unit13>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\packages\fcl-xml\src\xmlwrite.pp"/>
+        <UnitName Value="XMLWrite"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="88"/>
+        <CursorPos X="12" Y="69"/>
+        <UsageCount Value="10"/>
+      </Unit13>
+      <Unit14>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\rtl\win\wininc\ascdef.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="58"/>
+        <CursorPos X="10" Y="76"/>
+        <UsageCount Value="7"/>
+      </Unit14>
+      <Unit15>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\rtl\win\wininc\base.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="36"/>
+        <CursorPos X="20" Y="54"/>
+        <UsageCount Value="7"/>
+      </Unit15>
+      <Unit16>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\rtl\inc\systemh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="388"/>
+        <CursorPos X="28" Y="406"/>
+        <UsageCount Value="7"/>
+      </Unit16>
+      <Unit17>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\packages\fcl-base\src\fileinfo.pp"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <UsageCount Value="10"/>
+      </Unit17>
+      <Unit18>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\rtl\objpas\sysutils\filutilh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="124"/>
+        <CursorPos X="15" Y="137"/>
+        <UsageCount Value="10"/>
+      </Unit18>
+      <Unit19>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\rtl\objpas\sysutils\filutil.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="515"/>
+        <CursorPos X="3" Y="523"/>
+        <UsageCount Value="10"/>
+      </Unit19>
+      <Unit20>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\rtl\objpas\sysutils\sysstrh.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="205"/>
+        <CursorPos X="10" Y="222"/>
+        <UsageCount Value="11"/>
+      </Unit20>
+      <Unit21>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\rtl\objpas\sysutils\finah.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="9"/>
+        <CursorPos X="10" Y="27"/>
+        <UsageCount Value="11"/>
+      </Unit21>
+      <Unit22>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\fpc\3.0.4\source\rtl\objpas\sysutils\fina.inc"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="54"/>
+        <CursorPos X="3" Y="59"/>
+        <UsageCount Value="11"/>
+      </Unit22>
+      <Unit23>
+        <Filename Value="H:\Programme\Lazarus\components\onlinepackagemanager\opkman_options.pas"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="16"/>
+        <CursorPos X="6" Y="32"/>
+        <UsageCount Value="10"/>
+      </Unit23>
+      <Unit24>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\components\lazutils\laz2_xmlwrite.pas"/>
+        <UnitName Value="laz2_XMLWrite"/>
+        <EditorIndex Value="2"/>
+        <CursorPos X="40" Y="35"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit24>
+      <Unit25>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\components\lazutils\lazutf8.pas"/>
+        <UnitName Value="LazUTF8"/>
+        <EditorIndex Value="-1"/>
+        <UsageCount Value="10"/>
+      </Unit25>
+      <Unit26>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\components\lazutils\laz2_xmlread.pas"/>
+        <UnitName Value="laz2_XMLRead"/>
+        <EditorIndex Value="1"/>
+        <TopLine Value="27"/>
+        <CursorPos X="3" Y="40"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+      </Unit26>
+    </Units>
+    <JumpHistory Count="27" HistoryIndex="26">
+      <Position1>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="84" Column="39" TopLine="64"/>
+      </Position1>
+      <Position2>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="90" Column="22" TopLine="64"/>
+      </Position2>
+      <Position3>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="84" Column="34" TopLine="68"/>
+      </Position3>
+      <Position4>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="78" Column="82" TopLine="61"/>
+      </Position4>
+      <Position5>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="84" Column="31" TopLine="67"/>
+      </Position5>
+      <Position6>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="116" Column="20" TopLine="88"/>
+      </Position6>
+      <Position7>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="120" Column="79" TopLine="106"/>
+      </Position7>
+      <Position8>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="121" Column="90" TopLine="100"/>
+      </Position8>
+      <Position9>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="258" Column="7" TopLine="155"/>
+      </Position9>
+      <Position10>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="87" Column="31" TopLine="69"/>
+      </Position10>
+      <Position11>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="81" Column="82" TopLine="63"/>
+      </Position11>
+      <Position12>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="248" Column="29" TopLine="219"/>
+      </Position12>
+      <Position13>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="241" Column="152" TopLine="209"/>
+      </Position13>
+      <Position14>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="231" Column="155" TopLine="212"/>
+      </Position14>
+      <Position15>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="85" Column="31" TopLine="66"/>
+      </Position15>
+      <Position16>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="74" Column="16" TopLine="60"/>
+      </Position16>
+      <Position17>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="19" Column="15"/>
+      </Position17>
+      <Position18>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="227" Column="46" TopLine="223"/>
+      </Position18>
+      <Position19>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="9" Column="87"/>
+      </Position19>
+      <Position20>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="72" Column="62" TopLine="55"/>
+      </Position20>
+      <Position21>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="9" Column="93"/>
+      </Position21>
+      <Position22>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="94" Column="9" TopLine="75"/>
+      </Position22>
+      <Position23>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="224" Column="37" TopLine="208"/>
+      </Position23>
+      <Position24>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="246" Column="201" TopLine="220"/>
+      </Position24>
+      <Position25>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="246" Column="149" TopLine="231"/>
+      </Position25>
+      <Position26>
+        <Filename Value="startLazarusPortable.lpr"/>
+        <Caret Line="224" Column="115" TopLine="209"/>
+      </Position26>
+      <Position27>
+        <Filename Value="D:\Programme\Lazarus\Lazarus_x32\components\lazutils\laz2_xmlread.pas"/>
+        <Caret Line="58" Column="11" TopLine="39"/>
+      </Position27>
+    </JumpHistory>
+    <RunParams>
+      <FormatVersion Value="2"/>
+      <Modes Count="0" ActiveMode=""/>
+    </RunParams>
+  </ProjectSession>
+  <Debugging>
+    <Watches Count="2">
+      <Item1>
+        <Expression Value="tmpDOMNode"/>
+      </Item1>
+      <Item2>
+        <Expression Value="tmpDOMNode.FindNode.DestroyDestroy"/>
+      </Item2>
+    </Watches>
+  </Debugging>
+</CONFIG>
