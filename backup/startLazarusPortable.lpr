@@ -59,7 +59,7 @@ end;
 
 begin
   outStr := '';
-  WriteLn('startLazarusPortable v1.1');
+  WriteLn('startLazarusPortable v1.0');
   lazarusDir := IncludeTrailingPathDelimiter(ExtractFileDir(ParamStr(0)));
   WriteLn('LazarusDir: '+lazarusDir);
 
@@ -117,7 +117,7 @@ begin
 
                 stringListConf.LoadFromFile(FPCCompilerDir+'fpc.cfg');
 
-                //WriteLn('Conf File Line Count: '+IntToStr(stringListConf.Count));
+                WriteLn('Conf File Line Count: '+IntToStr(stringListConf.Count));
                 for I := 0 to (stringListConf.Count - 1) do
                   begin
                     if (Length(stringListConf.Strings[I])>0 ) then
